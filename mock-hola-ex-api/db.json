@@ -1,0 +1,236 @@
+{
+  "products": [
+    {
+      "id": "001",
+      "name": "Men's Running Shoes",
+      "description": "These running shoes are designed for comfort and durability. They are lightweight and provide great support for your feet. Perfect for both indoor and outdoor running.",
+      "price": 79.99,
+      "category": "Men",
+      "image": "https://example.com/images/mens-running-shoes.jpg"
+    },
+    {
+      "id": "002",
+      "name": "Women's Walking Shoes",
+      "description": "These walking shoes are comfortable and stylish. They are perfect for long walks or casual outings. They come in a variety of colors to match any outfit.",
+      "price": 59.99,
+      "category": "Women",
+      "image": "https://example.com/images/womens-walking-shoes.jpg"
+    },
+    {
+      "id": "003",
+      "name": "Men's Dress Shoes",
+      "description": "These dress shoes are made of high-quality leather and are perfect for any formal occasion. They come in black and brown.",
+      "price": 129.99,
+      "category": "Men",
+      "image": "https://example.com/images/mens-dress-shoes.jpg"
+    },
+    {
+      "id": "004",
+      "name": "Women's Sandals",
+      "description": "These sandals are comfortable and perfect for summer. They come in a variety of colors and styles.",
+      "price": 39.99,
+      "category": "Women",
+      "image": "https://example.com/images/womens-sandals.jpg"
+    },
+    {
+      "id": "005",
+      "name": "Kids' Sneakers",
+      "description": "These sneakers are perfect for kids who love to run and play. They are comfortable and durable. Available in various colors.",
+      "price": 29.99,
+      "category": "Kids",
+      "image": "https://example.com/images/kids-sneakers.jpg"
+    },
+    {
+      "id": "001",
+      "name": "Men's Running Shoes",
+      "description": "These running shoes are designed for comfort and durability. They are lightweight and provide great support for your feet. Perfect for both indoor and outdoor running.",
+      "price": 79.99,
+      "category": "Men",
+      "image": "https://example.com/images/mens-running-shoes.jpg"
+    },
+    {
+      "id": "002",
+      "name": "Women's Walking Shoes",
+      "description": "These walking shoes are comfortable and stylish. They are perfect for long walks or casual outings. They come in a variety of colors to match any outfit.",
+      "price": 59.99,
+      "category": "Women",
+      "image": "https://example.com/images/womens-walking-shoes.jpg"
+    },
+    {
+      "id": "003",
+      "name": "Men's Dress Shoes",
+      "description": "These dress shoes are made of high-quality leather and are perfect for any formal occasion. They come in black and brown.",
+      "price": 129.99,
+      "category": "Men",
+      "image": "https://example.com/images/mens-dress-shoes.jpg"
+    },
+    {
+      "id": "004",
+      "name": "Women's Sandals",
+      "description": "These sandals are comfortable and perfect for summer. They come in a variety of colors and styles.",
+      "price": 39.99,
+      "category": "Women",
+      "image": "https://example.com/images/womens-sandals.jpg"
+    },
+    {
+      "id": "005",
+      "name": "Kids' Sneakers",
+      "description": "These sneakers are perfect for kids who love to run and play. They are comfortable and durable. Available in various colors.",
+      "price": 29.99,
+      "category": "Kids",
+      "image": "https://example.com/images/kids-sneakers.jpg"
+    },
+    {
+      "id": "006",
+      "name": "Men's Winter Boots",
+      "description": "These boots are designed to keep your feet warm and dry during the winter. They have a waterproof exterior and a soft lining for extra warmth.",
+      "price": 99.99,
+      "category": "Men",
+      "image": "https://example.com/images/mens-winter-boots.jpg"
+    },
+    {
+      "id": "007",
+      "name": "Women's High Heels",
+      "description": "These high heels are perfect for a night out. They are stylish and comfortable, with a cushioned insole and non-slip sole.",
+      "price": 69.99,
+      "category": "Women",
+      "image": "https://example.com/images/womens-high-heels.jpg"
+    },
+    {
+      "id": "008",
+      "name": "Kids' Rain Boots",
+      "description": "These rain boots are perfect for kids who love to splash in puddles. They are waterproof and come in fun colors and designs.",
+      "price": 24.99,
+      "category": "Kids",
+      "image": "https://example.com/images/kids-rain-boots.jpg"
+    },
+    {
+      "id": "010",
+      "name": "Women's Ballet Flats",
+      "description": "These ballet flats are perfect for a day out. They are lightweight and comfortable, with a soft lining and cushioned insole.",
+      "price": 49.99,
+      "category": "Women",
+      "image": "https://example.com/images/womens-ballet-flats.jpg"
+    },
+    {
+      "id": "011",
+      "name": "Men's Hiking Boots",
+      "description": "These hiking boots are designed for rough terrain. They have a sturdy sole and a waterproof exterior to keep your feet dry.",
+      "price": 119.99,
+      "category": "Men",
+      "image": "https://example.com/images/mens-hiking-boots.jpg"
+    },
+    {
+      "id": "012",
+      "name": "Women's Wedge Sandals",
+      "description": "These wedge sandals are perfect for a day at the beach. They have a cushioned insole and a non-slip sole for comfort and safety.",
+      "price": 79.99,
+      "category": "Women",
+      "image": "https://example.com/images/womens-wedge-sandals.jpg"
+    },
+    {
+      "id": "013",
+      "name": "Kids' Athletic Shoes",
+      "description": "These athletic shoes are perfect for kids who love sports. They are lightweight and provide great support for your child's feet.",
+      "price": 39.99,
+      "category": "Kids",
+      "image": "https://example.com/images/kids-athletic-shoes.jpg"
+    },
+    {
+      "id": "014",
+      "name": "Men's Loafers",
+      "description": "These loafers are perfect for casual occasions. They are comfortable and stylish, with a slip-on design for convenience.",
+      "price": 89.99,
+      "category": "Men",
+      "image": "https://example.com/images/mens-loafers.jpg"
+    },
+    {
+      "id": "015",
+      "name": "Women's Ankle Boots",
+      "description": "These ankle boots are perfect for fall and winter. They are stylish and comfortable, with a cushioned insole and a non-slip sole.",
+      "price": 69.99,
+      "category": "Women",
+      "image": "https://example.com/images/womens-ankle-boots.jpg"
+    },
+    {
+      "id": "016",
+      "name": "Kids' Snow Boots",
+      "description": "These snow boots are perfect for kids who love to play in the snow. They have a waterproof exterior and a soft lining for extra warmth.",
+      "price": 39.99,
+      "category": "Kids",
+      "image": "https://example.com/images/kids-snow-boots.jpg"
+    },
+    {
+      "id": "017",
+      "name": "Men's Athletic Shoes",
+      "description": "These athletic shoes are perfect for running and other sports. They are lightweight and provide great support for your feet.",
+      "price": 79.99,
+      "category": "Men",
+      "image": "https://example.com/images/mens-athletic-shoes.jpg"
+    },
+    {
+      "id": "019",
+      "name": "Kids' Sneakers",
+      "description": "These sneakers are perfect for everyday wear. They have a comfortable fit and a stylish design that kids will love.",
+      "price": 29.99,
+      "category": "Kids",
+      "image": "https://example.com/images/kids-sneakers.jpg"
+    },
+    {
+      "id": "020",
+      "name": "Men's Dress Shoes",
+      "description": "These dress shoes are perfect for formal occasions. They have a sleek design and a comfortable fit, with a cushioned insole for added comfort.",
+      "price": 99.99,
+      "category": "Men",
+      "image": "https://example.com/images/mens-dress-shoes.jpg"
+    },
+    {
+      "id": "021",
+      "name": "Women's Flip Flops",
+      "description": "These flip flops are perfect for the beach or pool. They have a comfortable fit and a non-slip sole for safety.",
+      "price": 19.99,
+      "category": "Women",
+      "image": "https://example.com/images/womens-flip-flops.jpg"
+    },
+    {
+      "id": "022",
+      "name": "Kids' Sandals",
+      "description": "These sandals are perfect for summer adventures. They have a comfortable fit and a non-slip sole for safety.",
+      "price": 24.99,
+      "category": "Kids",
+      "image": "https://example.com/images/kids-sandals.jpg"
+    },
+    {
+      "id": "023",
+      "name": "Men's Work Boots",
+      "description": "These work boots are perfect for heavy-duty work. They have a steel toe and a slip-resistant sole for safety, and a comfortable fit for all-day wear.",
+      "price": 149.99,
+      "category": "Men",
+      "image": "https://example.com/images/mens-work-boots.jpg"
+    },
+    {
+      "id": "024",
+      "name": "Women's High Heels",
+      "description": "These high heels are perfect for formal occasions. They have a sleek design and a comfortable fit, with a cushioned insole for added comfort.",
+      "price": 89.99,
+      "category": "Women",
+      "image": "https://example.com/images/womens-high-heels.jpg"
+    },
+    {
+      "id": "025",
+      "name": "Kids' Rain Boots",
+      "description": "These rain boots are perfect for rainy days. They have a waterproof exterior and a soft lining for extra warmth and comfort.",
+      "price": 29.99,
+      "category": "Kids",
+      "image": "https://example.com/images/kids-rain-boots.jpg"
+    },
+    {
+      "id": "026",
+      "name": "Men's Boat Shoes",
+      "description": "These boat shoes are perfect for casual occasions. They have a slip-resistant sole and a comfortable fit, with a cushioned insole for added comfort.",
+      "price": 69.99,
+      "category": "Men",
+      "image": "https://example.com/images/mens-boat-shoes.jpg"
+    }
+  ]
+}
